@@ -1,0 +1,106 @@
+
+.principalImage
+{
+	background-image: url(../../images/example2.jpg);
+    width:100%;
+    height: 70%;
+	background-repeat: no-repeat;
+	margin: 0;
+}
+.ejemplo
+{
+	position: block;
+}
+.bg-pink
+{
+	background-color: #E91E63;
+	color:white;
+}
+.navStyle
+{
+	-webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+.barS{
+	background-color: #E91E63;
+	width: 15%;
+	position: block;
+}
+
+.style-card
+{
+	border-top-color:transparent;
+	border-left-color: transparent;
+	border-right-color: transparent;
+}
+.links
+{
+	color: white;
+	border-right:1px solid #ddd;
+    padding-top: 2px;
+    padding-bottom: 2px; 
+    line-height: 16px 
+}
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev 
+{
+  display: block;
+}
+.preview {
+  margin: 0px;
+  width: 230px;
+  height: 139px;
+  float: left;
+  background: url(../../images/example.jpg);
+  background-size:100% auto;
+  position: relative;
+
+}
+.title-preview
+{
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background: rgba(0, 0, 0, 0.75);
+  padding: 4px 8px;
+  color: white;
+  margin: 0;
+  font: 14px Sans-Serif;
+
+}
+.icon
+{
+	
+	color: #E91E63;
+}
+.liNav
+{
+	display: inline-block;
+	color: white;
+	list-style-type: none;
+
+}
+
+.sectionStyle
+{
+padding-top: 5%;
+}
+footer
+{
+	background-color: #0c1a1e;
+	padding: 60px 0;
+	min-height:550px;
+	
+}
+.cardFooter
+{
+	background-color: #0c1a1e;
+	color:white;
+	border-top-color:transparent;
+	border-left-color: transparent;
+	border-right-color: transparent;
+	border-bottom-color: gray;
+}
+
