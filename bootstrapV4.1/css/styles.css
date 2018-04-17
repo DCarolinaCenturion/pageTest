@@ -52,9 +52,9 @@
 .cardElegant
 {
 	
-      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-       text-align: center;
-       margin: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin: 5px;
 }
 .card-block
 {
@@ -65,7 +65,7 @@
     background: -webkit-linear-gradient(#eee, #de0a0a);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    
+
 }
 .preview {
   margin: 0px;
@@ -125,12 +125,9 @@
 	 all: unset;
 }
 
-
- }
-
 .sectionStyle
 {
-padding-top: 5%;
+	padding-top: 5%;
 }
 footer
 {
